@@ -11,8 +11,8 @@ lista.forEach(palabra => {
   }
 })
 
-let suma = ''
+let respuesta = ''
 Object.keys(dic).forEach(key => {
-  suma = suma + key + dic[key]
+  respuesta = respuesta + key + dic[key]
 })
-console.log(suma)
+console.log(respuesta)

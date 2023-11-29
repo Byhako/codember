@@ -16,4 +16,4 @@ for x in cadena:
         n = n * n
 
 
-print('rr->', resultado)
+print('Resultado ->', resultado)
